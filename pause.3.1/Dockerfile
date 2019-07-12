@@ -1,2 +1,2 @@
-Form gcr.io/google_containers/pause-amd64:3.0 
+Form mirrorgooglecontainers/pause:3.1
  

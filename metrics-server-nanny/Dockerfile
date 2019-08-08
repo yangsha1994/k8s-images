@@ -1,1 +1,0 @@
-From metrics-server-nanny

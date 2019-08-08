@@ -1,1 +1,1 @@
-From metrics-server
+From metrics-server:latest
